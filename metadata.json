@@ -1,0 +1,6 @@
+{
+  "name": "GLYPH Wallpapers",
+  "description": "Obsidian telemetry wallpaper studio inspired by Nothing OS with live lockscreen, homescreen, and AOD simulation, telemetry diagnostics, and lossless ingestion engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
